@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pat Wheeler !
 - 👀 I’m interested in coding in Pyhton and Creating Mobile apps
 - 🌱 I’m currently learning Python and React native
-- 💞️ I’m looking to collaborate on github,projects, games and mobile apps
+- 💞️ I’m looking to collaborate on github,web-projects, games and mobile apps
 - 📫 How to reach me patrowheels7&@gmail.com
 
 <!---
