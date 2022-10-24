@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pat Wheeler !
-- 👀 I’m interested in creating games, building life enhancing software & creating Mobile apps
-- 🌱 I’m currently learning unity, node.js and React native
-- 💞️ I’m looking to collaborate on github,web-projects, games and mobile apps
+- 👀 I’m interested in all things Code, building software & creating Mobile apps
+- 🌱 I’m currently learning and building fullstack applications with Js, React ,node.js,data-bases and React native
+- 💞️ I’m looking to collaborate on github! Lets build a project together!
 - 📫 How to reach me patrowheels7@gmail.com
 
 <!---
